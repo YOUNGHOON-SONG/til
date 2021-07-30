@@ -1,6 +1,7 @@
 - 협업하기 위한 단계는 무엇이 있을까?
 - issue : 누가 어떤 작업을 할지 정하는 것
 - branch : 갈라져나와 각자의 작업공간을 만들어 작업하는 것
-- merge : 작업한 branch를 메인에 합치는 것
+- merge : 작업한 branch를 메인branch에 합치는 것
 - merge conflict : 동일한 파일을 작업했을 경우 충돌 발생할 수 있음. 충돌 부분을 검토하여 수정하고 올릴것
-- 원격 repo 의 origin : 협업하는 메인브랜치
+- 원격 repo 의 origin : 협업하는 메인브랜치.
+- tracking : 원격repo와 로컬 repo 연결하는 것.
