@@ -4,9 +4,15 @@
 
 ### 3주차 과제
 PR(Pull Request) : 작업내역을 프로젝트에 반영하는 것이 아니라 충분히 리뷰받고 최종적으로 프로젝트에 반영하는 단계
+
 amend : 최신 commit 수정
-revert : 어떤 내용을 되돌렸는지 새로우 ㄴcommit 남기는 것
-:reset : commit 했던 작업 내역 리셋 (자기 브랜치에서만)
+
+revert : 어떤 내용을 되돌렸는지 새로운 commit 남기는 것
+
+reset : commit 했던 작업 내역 리셋 (자기 브랜치에서만)
+
 stash : 프로젝트의 변경사항을 임시적으로 보관
+
 .gitignore : 파일 무시하는 설정
+
 readme.md : 프로젝트 소개글
